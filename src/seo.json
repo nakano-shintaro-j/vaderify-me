@@ -1,0 +1,7 @@
+{
+  "glitch-help-instructions": "For a custom domain, change the 'url' parameter from 'glitch-default' to your domain _without_ a traling slash, like 'https://www.example.com'",
+  "title": "Vaderify Me!",
+  "description": "Create your Vader Protocol avatar.",
+  "url": "glitch-default",
+  "image": "https://cdn.glitch.com/ec76fcf1-8987-412f-8a9a-e1b59470b0cb%2F21a1c069-9b26-4eab-8b5c-843c0a9b616d_Screen%20Shot%202021-05-08%20at%204.27.36%20PM.png?v=1620655748749"
+}
